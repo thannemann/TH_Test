@@ -1,0 +1,24 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "TH_Test",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 172533,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1870,
+                    "y": 223.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ]
+}
